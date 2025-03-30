@@ -1,4 +1,4 @@
-# VLN-Input-Lite
+# VLN Token Pruning - BGP/BTP/VPP
 A token pruning strategy designed specifically for VLN tasks, reducing instruction, view, and map input sizes.
 
 Update 30th March:
