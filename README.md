@@ -10,4 +10,4 @@ Our paper is under the review process of an ACL cycle. We are going to upload pa
 <img src="./example.png" width="500">
 Our proposed pruning strategies reduced unnecessary backtracking due to the loss of pruned visual information while preserving key information in the instruction under low token budgets.
 <img src="./VPP_example.png" width = "500">
-Our proposed Vocabulary Priority Pruning preserved key navigation information under a low token budget while general pruning strategies couldn't.
+The Vocabulary Priority Pruning (VPP) preserved key navigation information under a low token budget while general pruning strategies couldn't.
